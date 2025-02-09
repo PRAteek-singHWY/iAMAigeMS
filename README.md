@@ -100,19 +100,19 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## Screenshots
 
 ### Home Page
-![Home Page](![Screenshot 2025-02-09 at 17 23 52](https://github.com/user-attachments/assets/9fa04c18-fd8f-4ff6-a523-0e6212011d42)
+[Screenshot 2025-02-09 at 17 23 52](https://github.com/user-attachments/assets/9fa04c18-fd8f-4ff6-a523-0e6212011d42)
 
-)
+
 
 ### Home Page
-![Home Page](![Screenshot 2025-02-09 at 17 23 58](https://github.com/user-attachments/assets/977c22d7-92fc-48fc-a321-49aae3b70e20)
+[Screenshot 2025-02-09 at 17 23 58](https://github.com/user-attachments/assets/977c22d7-92fc-48fc-a321-49aae3b70e20)
 
-)
+
 
 ### Image Generation Demo
-![Image Generation Demo](![Screenshot 2025-02-09 at 17 24 02](https://github.com/user-attachments/assets/e490a077-db72-4d3b-bef9-71bffe25ee52)
+[Screenshot 2025-02-09 at 17 24 02](https://github.com/user-attachments/assets/e490a077-db72-4d3b-bef9-71bffe25ee52)
 
-)
+
 
 
 
