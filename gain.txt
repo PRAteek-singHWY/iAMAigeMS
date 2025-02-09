@@ -1,0 +1,41 @@
+* RIGHT FROM SCARTCH app like genrator of images just like  OpenAI's DALL·E 2
+
+//FRONT-END PART
+(installing vite)npm create vite@latest vite isnew genration too much fater than regular create react App
+(installing tailwind)tailwind makes styling easier by using utility classes
+(fontstyle creation in index.html)creating "inter" fontstyle in index.html basically it just made the text abit big and bold
+(installed react-router-dom) 
+
+//BACK-END PART
+1->create a server folder
+2->open it and cd                " npm init -y " from terminal
+below description adding --> "type" "module" it allows us to use import and export just as we do in react.js instead of using require
+3->connect to mongoDB-border
+4->connect to OpenAI
+5->connecting mongoose with  atlas + import with .js
++ " mongoose connection string  containing password  " in .env
+6->creating Model for our post AKA structure how our post is going to look like
+5+ hrs facing errorrs regarding the routes post route the get and the post part finally the error was in mongo db cconnection url and ip address nnetwork access added my own current ip address and also allowed access from anywhre to continue further
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
