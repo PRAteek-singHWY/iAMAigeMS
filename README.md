@@ -96,17 +96,20 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ---
 
+
 ## Screenshots
 
 ### Home Page
-![Home Page](<img width="1710" alt="Screenshot 2025-02-09 at 17 23 52" src="https://github.com/user-attachments/assets/1271e779-65a2-4277-9fb1-48805d748210" />
+![Home Page](<img width="1703" alt="Screenshot 2025-02-09 at 17 23 52" src="https://github.com/user-attachments/assets/35e29477-5f95-4487-a387-2a0531e5682a" />
 )
-![Home Page](<img width="1710" alt="Screenshot 2025-02-09 at 17 23 58" src="https://github.com/user-attachments/assets/06bea333-cc90-4969-897a-4340cdeb79d3" />
 
-
+### Home Page
+![Home Page](<img width="1710" alt="Screenshot 2025-02-09 at 17 23 58" src="https://github.com/user-attachments/assets/33217012-cb20-4e6f-9ea7-8b3c5b639513" />
 )
+
 ### Image Generation Demo
-![Image Generation Demo](<img width="1710" alt="Screenshot 2025-02-09 at 17 24 02" src="https://github.com/user-attachments/assets/053d9c32-50fe-4536-8823-8e5ed64b1ccc" />
+![Image Generation Demo](<img width="1710" alt="Screenshot 2025-02-09 at 17 24 02" src="https://github.com/user-attachments/assets/e40c907f-84dc-44bd-b6f9-3f11599cf759" />
 )
+
 
 
