@@ -96,7 +96,17 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ---
 
-## **License**
+## Screenshots
 
-This project is licensed under the MIT License.
+### Home Page
+![Home Page](<img width="1710" alt="Screenshot 2025-02-09 at 17 23 52" src="https://github.com/user-attachments/assets/1271e779-65a2-4277-9fb1-48805d748210" />
+)
+![Home Page](<img width="1710" alt="Screenshot 2025-02-09 at 17 23 58" src="https://github.com/user-attachments/assets/06bea333-cc90-4969-897a-4340cdeb79d3" />
+
+
+)
+### Image Generation Demo
+![Image Generation Demo](<img width="1710" alt="Screenshot 2025-02-09 at 17 24 02" src="https://github.com/user-attachments/assets/053d9c32-50fe-4536-8823-8e5ed64b1ccc" />
+)
+
 
